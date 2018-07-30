@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,isobject",
+    "logging_enabled": "false",
+    "name": "isobjectSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "isobjectSmokeTest.js"
+}
